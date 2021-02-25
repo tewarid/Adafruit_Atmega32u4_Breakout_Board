@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name atmega32u4bb-eagle-import)(type Legacy)(uri ${KIPRJMOD}/atmega32u4bb-eagle-import.lib)(options "")(descr ""))
+)
